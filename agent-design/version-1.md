@@ -68,5 +68,3 @@ The agent does not choose outcomes — it evaluates whether a proposed action or
 | Leadership (optional) | 30 — Supporting role |
 
 ---
-
-This is a direct match to your version-1.md — once you save it, freeze it. Don't tweak sliders or text after the simulation starts, even if it behaves oddly in an early scenario; that's the data you want for the Version 2 proposal later. Want the `predictions/scenario-predictions.md` file next, so you have something written down before the first episode runs?
